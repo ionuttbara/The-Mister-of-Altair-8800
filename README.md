@@ -1,7 +1,7 @@
 Altair8800_Mister
 =================
 ![alt text](./images/Altair8800_MiSTer.png)
-By Fred VanEijk and Cyril Venditti.
+By Fred VanEijk and Cyril Venditti.  
 __This project is for documentation!__
 
 ## What is an Altair 8800
